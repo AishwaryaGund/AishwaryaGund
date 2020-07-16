@@ -1,7 +1,5 @@
 <div>
 	<h1> Aishwarya Gund</h1>
-	<img src="profile.jpg" alt="Image Unavailable">
-	img {
-  border-radius: 50%;
-}
-	</div>
+	<hr>
+	<h2> Web Developer </h2>
+</div>
